@@ -5,7 +5,7 @@
 
 </div>
 
-This paper is currently undergoing a review process. It will be released and the code will be made available once the review has been completed. Some of our models and data are available for use now via [Huggingface](https://huggingface.co/).
+This paper is currently undergoing a review process. It will be released and the code will be made available once the review has been completed.
 
 
 
